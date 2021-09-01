@@ -7,3 +7,5 @@
 생성, 이동, 조립, 실행, 분해, 복제, 소멸, Spinner 블록을 사용하여 다양한 연산자들 생성, Button 블록을 사용한 추가 기능(숫자x2, 전체삭제, 그래프)가 있다. 아래 표에 각 상호작용을 설명하였다.
 
 * 시연영상 : https://www.youtube.com/watch?v=brC4x3f5z-s&t=87s
+
+![직접조작계산기](https://user-images.githubusercontent.com/39071676/131688950-fc012d86-bc1a-4be9-8c40-2b84ee66ad14.gif)
